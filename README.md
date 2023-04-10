@@ -26,7 +26,7 @@ SpotSync is a user-friendly program that allows you to effortlessly download Spo
 Please note that downloading Spotify content may be subject to legal restrictions and it's important to use SpotSync responsibly and comply with all applicable laws and regulations. Always respect the terms of use of Spotify and ensure that you have proper authorization to download and use the playlists you choose.
 
 ## License
-SpotFetch is on the [public domain!](https://en.wikipedia.org/wiki/Unlicense) so do whatever you want i dont care.
+See the License file to see more information. There is more info about the license [here](https://choosealicense.com/licenses/gpl-3.0/#)
 
 ## Contributions
 
