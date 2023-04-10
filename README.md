@@ -9,6 +9,9 @@ SpotSync is a user-friendly program that allows you to effortlessly download Spo
 - Automatically includes metadata like Artist, Track, Album and Published Date with no hassle
 - Provides a seamless and comprehensive playlist downloading experience.
 
+## How It Works
+This does'nt actually download .mp3 files from spotify. It takes all your songs from the spotify playlist and searches youtube for the best match and downloads the song from Youtube and then it adds the name and artist to the name.
+
 ## Usage
 
 1. Create a Spotify App by following the Spotify Developer documentation [here](https://developer.spotify.com/documentation/web-api/tutorials/getting-started#create-an-app).
